@@ -1,6 +1,6 @@
 # CarCheckUp Web Application
 
-![CarCheckUp Logo](D:\Work\carcheckup\carcheckuplogo.png)
+![CarCheckUp Logo](https://raw.githubusercontent.com/dembasow98/carcheckupmobileapplication/master/images/carcheckuplogo.png)
 
 CarCheckUp is a web application for a UK based company MILENA SOFTWARE: [https://milenasoftware.com/](https://milenasoftware.com/) that provides comprehensive car information and vehicle history reports. This application allows users to check the details and history of a vehicle by providing its registration number.
 Here we have bundled the web application into mobile application using flutter.
