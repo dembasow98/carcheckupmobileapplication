@@ -1,6 +1,6 @@
 <div align="center">
     <h1>CAR CHECKUP MOBILE APPLICATION</h1>
-<div align="center">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dembasow98/carcheckupmobileapplication/master/images/carcheckuplogo.png" alt="CarCheckUp Logo"/>
