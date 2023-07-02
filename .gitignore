@@ -169,6 +169,8 @@ unlinked_spec.ds
 
 # Coverage
 coverage/
+#notes
+notes
 
 # Symbols
 app.*.symbols
